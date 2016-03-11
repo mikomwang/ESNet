@@ -1,0 +1,10 @@
+j.txt node1
+d.txt node1
+e.txt node1
+i.txt node1
+h.txt node2
+g.txt node2
+c.txt node2
+f.txt node2
+a.txt NULL
+b.txt NULL

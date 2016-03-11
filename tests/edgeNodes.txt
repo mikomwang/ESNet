@@ -1,0 +1,3 @@
+#break node and size
+node1 10
+node2 10

@@ -1,0 +1,13 @@
+#Break Node and size
+
+a.txt 7
+ 
+b.txt 5
+c.txt 4
+d.txt 4
+e.txt 2
+f.txt 2
+g.txt 2
+h.txt 2
+i.txt 2
+j.txt 2
